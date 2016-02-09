@@ -1,0 +1,20 @@
+﻿body {
+  height: 960px;
+  background-repeat: no-repeat;
+  background-size: 100% 960px;
+  background-image: url('../img/levi-lapland-finland-levi.jpg');
+  margin: 0;
+  padding: 0;
+}
+.shell {
+  background: rgba(0, 0, 0, 0.2);
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  background-repeat: repeat;
+  background-size: 200px auto;
+}
+#canvas {
+  display: block;
+}
+/*# sourceMappingURL=common.css.map */

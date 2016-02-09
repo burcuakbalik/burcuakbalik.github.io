@@ -1,0 +1,6 @@
+C:\Users\N90008327\Documents\GitHub\burcuakbalik.github.io\BURCU-WEB\BURCU-WEB\BURCU-WEB\bin\BURCU-WEB.dll.config
+C:\Users\N90008327\Documents\GitHub\burcuakbalik.github.io\BURCU-WEB\BURCU-WEB\BURCU-WEB\bin\BURCU-WEB.dll
+C:\Users\N90008327\Documents\GitHub\burcuakbalik.github.io\BURCU-WEB\BURCU-WEB\BURCU-WEB\bin\BURCU-WEB.pdb
+C:\Users\N90008327\Documents\GitHub\burcuakbalik.github.io\BURCU-WEB\BURCU-WEB\BURCU-WEB\obj\Debug\BURCU-WEB.csprojResolveAssemblyReference.cache
+C:\Users\N90008327\Documents\GitHub\burcuakbalik.github.io\BURCU-WEB\BURCU-WEB\BURCU-WEB\obj\Debug\BURCU-WEB.dll
+C:\Users\N90008327\Documents\GitHub\burcuakbalik.github.io\BURCU-WEB\BURCU-WEB\BURCU-WEB\obj\Debug\BURCU-WEB.pdb
