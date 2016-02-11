@@ -25,7 +25,7 @@
     function draw() {
         ctx.clearRect(0, 0, W, H);
 
-        ctx.fillStyle = "rgba(255, 255, 255, 0.8)";
+        ctx.fillStyle = "rgba(185, 185, 185, 0.8)";
         ctx.beginPath();
         for (var i = 0; i < mp; i++) {
             var p = particles[i];

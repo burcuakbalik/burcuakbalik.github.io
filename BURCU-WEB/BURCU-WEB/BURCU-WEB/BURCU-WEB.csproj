@@ -171,9 +171,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\img\b-icon.png" />
+    <Content Include="Assets\img\favicon.png" />
     <Content Include="Assets\img\Finland.jpg" />
     <Content Include="Assets\img\levi-lapland-finland-levi.jpg" />
-    <Content Include="Assets\img\red-polka-dots.png" />
     <Content Include="Assets\js\snow.js" />
     <Content Include="Assets\less\common.css">
       <DependentUpon>common.less</DependentUpon>
@@ -181,6 +182,7 @@
     <Content Include="Assets\less\common.min.css">
       <DependentUpon>common.css</DependentUpon>
     </Content>
+    <Content Include="favicon.ico" />
     <Content Include="index.html" />
     <Content Include="node_modules\angular\angular-csp.css" />
     <Content Include="node_modules\angular\angular.js" />
