@@ -175,12 +175,21 @@
     <Content Include="Assets\img\favicon.png" />
     <Content Include="Assets\img\Finland.jpg" />
     <Content Include="Assets\img\levi-lapland-finland-levi.jpg" />
+    <Content Include="Assets\js\modernizr.custom.js" />
     <Content Include="Assets\js\snow.js" />
     <Content Include="Assets\less\common.css">
       <DependentUpon>common.less</DependentUpon>
     </Content>
     <Content Include="Assets\less\common.min.css">
       <DependentUpon>common.css</DependentUpon>
+    </Content>
+    <Content Include="Assets\less\component.css" />
+    <Content Include="Assets\less\component.min.css">
+      <DependentUpon>component.css</DependentUpon>
+    </Content>
+    <Content Include="Assets\less\normalize.css" />
+    <Content Include="Assets\less\normalize.min.css">
+      <DependentUpon>normalize.css</DependentUpon>
     </Content>
     <Content Include="favicon.ico" />
     <Content Include="index.html" />
